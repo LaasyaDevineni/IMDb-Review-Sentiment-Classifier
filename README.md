@@ -3,11 +3,11 @@
 This repository contains a sentiment analysis model built using TensorFlow and Keras to classify movie reviews from the IMDb dataset into positive or negative sentiments.
 
 ## Table of Contents
-- [Overview]
-- [Model Architecture]
-- [Training]
-- [Results]
-- [Usage]
+- [Overview](#overview)
+- [Model Architecture](#model-architecture)
+- [Training](#training)
+- [Results](#results)
+
 
 ## Overview
 The IMDb Review Sentiment Classifier is designed to analyze movie reviews and predict the sentiment expressed in each review (positive or negative). The model uses recurrent neural networks (RNNs) with LSTM layers to process the text data effectively.
